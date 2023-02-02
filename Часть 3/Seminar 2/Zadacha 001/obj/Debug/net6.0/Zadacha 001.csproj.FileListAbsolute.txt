@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\bin\Debug\net6.0\Zadacha 001.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\bin\Debug\net6.0\Zadacha 001.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\bin\Debug\net6.0\Zadacha 001.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\bin\Debug\net6.0\Zadacha 001.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\bin\Debug\net6.0\Zadacha 001.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\refint\Zadacha 001.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\Zadacha 001.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Seminar 2\Zadacha 001\obj\Debug\net6.0\ref\Zadacha 001.dll
